@@ -108,7 +108,7 @@ fabric-ca，然后tag为latest）：
 pc溯源
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0707/152117_9beee42b_4775150.png "QQ图片20210707152056.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0707/152129_8e55e697_4775150.png "QQ图片20210707152102.png")
-![img.png](install-fabric-env/static/img.png)
+![img.png](https://gitee.com/ken-xue/Blockchain-APTrace-Fabric/raw/master/install-fabric-env/static/img.png)
 小程序端溯源
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0510/234302_29fe611b_4775150.png "7.png")
